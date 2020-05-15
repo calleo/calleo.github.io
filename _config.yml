@@ -3,3 +3,4 @@ description: Testing GitHub Pages
 url: "https://calleo.github.io"
 markdown: kramdown
 highlighter: rouge
+theme: jekyll-theme-cayman
